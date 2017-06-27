@@ -19,4 +19,4 @@ $ sudo pip install lxml
 
 $ sudo pip install urllib
 
-Finally run the script.py file..
+Finally run the scrapper.py file..
